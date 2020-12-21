@@ -6,13 +6,13 @@
 
 | 번호 | 제목 | 난이도 | 장 | 문제 풀이 |
 | --- | --- | ---- | - | --- |
-| 1 | [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/) | ★ | 6장. 문자열 조작 |  |
+| 1 | [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/) | ★ | 6장. 문자열 조작 | [01jehong.py](solutions/00string/01jehong.py)</br>[01taelee1.py](solutions/00string/01taelee1.py)</br>[01taelee2.py](solutions/00string/01taelee2.py) |
 | 2 | [문자열 뒤집기](https://leetcode.com/problems/reverse-string/) | ★ | 6장. 문자열 조작 |  |
 | 3 | [로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/) | ★ | 6장. 문자열 조작 |  |
 | 4 | [가장 흔한 단어](https://leetcode.com/problems/most-common-word/) | ★ | 6장. 문자열 조작 |  |
 | 5 | [그룹 애너그램](https://leetcode.com/problems/group-anagrams/) | ★★ | 6장. 문자열 조작 |  |
 | 6 | [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | 6장. 문자열 조작 |  |
-| 7 | [두 수의 합](https://leetcode.com/problems/two-sum/) | ★ | 7장. 배열 |  |
+| 7 | [두 수의 합](https://leetcode.com/problems/two-sum/) | ★ | 7장. 배열 | [07jehong.py](solutions/01array/07jehong.py)</br>[07taelee.py](solutions/01array/07taelee.py) |
 | 8 | [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 |  |
 | 9 | [세 수의 합](https://leetcode.com/problems/3sum/) | ★★ | 7장. 배열 |  |
 | 10 | [배열 파티션 I](https://leetcode.com/problems/array-partition-i/) | ★ | 7장. 배열 |  |
