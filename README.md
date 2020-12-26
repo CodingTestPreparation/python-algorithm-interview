@@ -20,7 +20,7 @@
 | 12 | [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ★ | 7장. 배열 |  |
 | 13 | [팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) | ★ | 8장. 연결 리스트 | [13taelee.py](solutions/02LinkedList/13taelee.py) </br> [13jehong.py](solutions/02LinkedList/13jehong.py)|
 | 14 | [두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 8장. 연결 리스트 |[14jehong.py](solutions/02LinkedList/14jehong.py) </br> [14taelee.py](solutions/02LinkedList/14taelee.py)|
-| 15 | [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list/) | ★ | 8장. 연결 리스트 |  [14taelee.py](solutions/02LinkedList/15taelee.py)|
+| 15 | [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list/) | ★ | 8장. 연결 리스트 |  [15taelee.py](solutions/02LinkedList/15taelee.py)</br>[15jehong_1.py](solutions/02LinkedList/15jehong_1.py)</br>[15jehong_2.py](solutions/02LinkedList/15jehong_2.py)|
 | 16 | [두 수의 덧셈](https://leetcode.com/problems/add-two-numbers/) | ★★ | 8장. 연결 리스트 |  |
 | 17 | [페어의 노드 스왑](https://leetcode.com/problems/swap-nodes-in-pairs/) | ★★ | 8장. 연결 리스트 | [17taelee.py](solutions/02LinkedList/17taelee.py) |
 | 18 | [홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) | ★★ | 8장. 연결 리스트 |  |
