@@ -23,7 +23,7 @@
 | 15 | [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list/) | ★ | 8장. 연결 리스트 |  [15taelee.py](solutions/02LinkedList/15taelee.py)</br>[15jehong_1.py](solutions/02LinkedList/15jehong_1.py)</br>[15jehong_2.py](solutions/02LinkedList/15jehong_2.py)|
 | 16 | [두 수의 덧셈](https://leetcode.com/problems/add-two-numbers/) | ★★ | 8장. 연결 리스트 |  |
 | 17 | [페어의 노드 스왑](https://leetcode.com/problems/swap-nodes-in-pairs/) | ★★ | 8장. 연결 리스트 | [17taelee.py](solutions/02LinkedList/17taelee.py)</br>[17jehong.py](solutions/02LinkedList/17jehong.py) |
-| 18 | [홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) | ★★ | 8장. 연결 리스트 | [18taelee.py](solutions/02LinkedList/18taelee.py) |
+| 18 | [홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) | ★★ | 8장. 연결 리스트 | [18taelee.py](solutions/02LinkedList/18taelee.py)</br>[18jehong.py](solutions/02LinkedList/18jehong.py) |
 | 19 | [역순 연결 리스트 II](https://leetcode.com/problems/reverse-linked-list-ii/) | ★★ | 8장. 연결 리스트 |  |
 | 20 | [유효한 괄호](https://leetcode.com/problems/valid-parentheses/) | ★ | 9장. 스택, 큐 |[20jehong.py](solutions/03stack,queue/20jehong.py) </br> [20taelee.py](solutions/03stack,queue/20taelee.py)|
 | 21 | [중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) | ★★★ | 9장. 스택, 큐 |[21jehong.py](solutions/03stack,queue/21jehong.py) </br> [21taelee.py](solutions/03stack,queue/21taelee.py)|
