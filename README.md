@@ -70,7 +70,7 @@
 | 62 | [유효한 애너그램](https://leetcode.com/problems/valid-anagram/) | ★ | 17장. 정렬 |  |
 | 63 | [색 정렬](https://leetcode.com/problems/sort-colors/) | ★★ | 17장. 정렬 |  |
 | 64 | [원점에 K번째 가까운 점](https://leetcode.com/problems/k-closest-points-to-origin/) | ★★ | 17장. 정렬 |  |
-| 65 | [이진 검색](https://leetcode.com/problems/binary-search/) | ★ | 18장. 이진 검색 |  |
+| 65 | [이진 검색](https://leetcode.com/problems/binary-search/) | ★ | 18장. 이진 검색 | [65taelee.swift](solutions/12binarySearch/65taelee.swift) |
 | 66 | [회전 정렬된 배열 검색](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ★★ | 18장. 이진 검색 |  |
 | 67 | [두 배열의 교집합](https://leetcode.com/problems/intersection-of-two-arrays/) | ★ | 18장. 이진 검색 |  |
 | 68 | [두 수의 합 II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★ | 18장. 이진 검색 |  |
