@@ -62,7 +62,7 @@
 | 54 | [전위, 중위 순회 결과로 이진 트리 구축](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ★★ | 14장. 트리 |  |
 | 55 | [배열의 K번째 큰 요소](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ★★ | 15장. 힙 |  |
 | 56 | [트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) | ★★ | 16장. 트라이 | [56taelee.py](solutions/10trie/56taelee.py)</br>[56taelee(binary_search).py](solutions/10trie/56taelee(binary_search).py)</br>[56jehong_bisect.py](solutions/10trie/56jehong_bisect.py)</br>[56jehong_trie.py](solutions/10trie/56jehong_trie.py) |
-| 57 | [팰린드롬 페어](https://leetcode.com/problems/palindrome-pairs/) | ★★★ | 16장. 트라이 |  |
+| 57 | [팰린드롬 페어](https://leetcode.com/problems/palindrome-pairs/) | ★★★ | 16장. 트라이 | [57jehong.py](solutions/10trie/57jehong.py) |
 | 58 | [리스트 정렬](https://leetcode.com/problems/sort-list/) | ★★ | 17장. 정렬 |  |
 | 59 | [구간 병합](https://leetcode.com/problems/merge-intervals/) | ★★ | 17장. 정렬 |  |
 | 60 | [삽입 정렬 리스트](https://leetcode.com/problems/insertion-sort-list/) | ★★ | 17장. 정렬 |  |
