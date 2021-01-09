@@ -7,7 +7,7 @@
 | 번호 | 제목 | 난이도 | 장 | 문제 풀이 |
 | --- | --- | ---- | - | --- |
 | 1 | [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/) | ★ | 6장. 문자열 조작 | [01jehong.py](solutions/00string/01jehong.py)</br>[01taelee1.py](solutions/00string/01taelee1.py)</br>[01taelee2.py](solutions/00string/01taelee2.py) |
-| 2 | [문자열 뒤집기](https://leetcode.com/problems/reverse-string/) | ★ | 6장. 문자열 조작 |  |
+| 2 | [문자열 뒤집기](https://leetcode.com/problems/reverse-string/) | ★ | 6장. 문자열 조작 | [02taelee.py](solutions/00string/02taelee.py) |
 | 3 | [로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/) | ★ | 6장. 문자열 조작 |  |
 | 4 | [가장 흔한 단어](https://leetcode.com/problems/most-common-word/) | ★ | 6장. 문자열 조작 |  |
 | 5 | [그룹 애너그램](https://leetcode.com/problems/group-anagrams/) | ★★ | 6장. 문자열 조작 |  |
