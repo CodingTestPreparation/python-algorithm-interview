@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}

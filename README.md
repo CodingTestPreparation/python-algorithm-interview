@@ -48,7 +48,7 @@
 | 40 | [네트워크 딜레이 타임](https://leetcode.com/problems/network-delay-time/) | ★★ | 13장. 최단 경로 문제 |  |
 | 41 | [K 경유지 내 가장 저렴한 항공권](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | ★★ | 13장. 최단 경로 문제 |  |
 | 42 | [이진 트리의 최대 깊이](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ★ | 14장. 트리 | [42taelee(DFS).py](solutions/08tree/42taelee(DFS).py)<BR>[42taelee(BFS).py (다시풀기)](solutions/08tree/42taelee(BFS).py)<BR>[42jehong_DFS.py](solutions/08tree/42jehong_DFS.py)<BR>[42jehong_BFS.py (다시풀기)](solutions/08tree/42jehong_BFS.py)<BR>|
-| 43 | [이진 트리의 직경](https://leetcode.com/problems/diameter-of-binary-tree/) | ★ | 14장. 트리 | [43taelee(DFS).py (다시풀기)](solutions/08tree/43taelee(DFS).py)<BR> |
+| 43 | [이진 트리의 직경](https://leetcode.com/problems/diameter-of-binary-tree/) | ★ | 14장. 트리 | [43taelee(DFS).py (다시풀기)](solutions/08tree/43taelee(DFS).py)<BR>[43jehong_DFS.py (다시풀기)](solutions/08tree/43jehong_DFS.py) |
 | 44 | [가장 긴 동일 값의 경로](https://leetcode.com/problems/longest-univalue-path/) | ★ | 14장. 트리 | [44taelee.py (다시풀기)](solutions/08tree/44taelee.py)<BR> |
 | 45 | [이진 트리 반전](https://leetcode.com/problems/invert-binary-tree/) | ★ | 14장. 트리 |  |
 | 46 | [두 이진 트리 병합](https://leetcode.com/problems/merge-two-binary-trees/) | ★ | 14장. 트리 |  |
@@ -61,8 +61,8 @@
 | 53 | [이진 탐색 트리(BST) 노드 간 최소 거리](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | ★ | 14장. 트리 |  |
 | 54 | [전위, 중위 순회 결과로 이진 트리 구축](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ★★ | 14장. 트리 |  |
 | 55 | [배열의 K번째 큰 요소](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ★★ | 15장. 힙 |  |
-| 56 | [트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) | ★★ | 16장. 트라이 | [56taelee.py](solutions/10trie/56taelee.py)</br>[56taelee(binary_search).py](solutions/10trie/56taelee(binary_search).py)</br>[56jehong_bisect.py](solutions/10trie/56jehong_bisect.py)</br>[56jehong_trie.py](solutions/10trie/56jehong_trie.py) |
-| 57 | [팰린드롬 페어](https://leetcode.com/problems/palindrome-pairs/) | ★★★ | 16장. 트라이 | [57jehong.py](solutions/10trie/57jehong.py) |
+| 56 | [트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) | ★★ | 16장. 트라이 | [56taelee.py](solutions/10trie/56taelee.py)</br>[56taelee(binary_search).py](solutions/10trie/56taelee(binary_search).py)</br>[56jehong_bisect.py](solutions/10trie/56jehong_bisect.py)</br>[56jehong_trie.py(다시풀기)](solutions/10trie/56jehong_trie.py) |
+| 57 | [팰린드롬 페어](https://leetcode.com/problems/palindrome-pairs/) | ★★★ | 16장. 트라이 | [57jehong.py(다시풀기)](solutions/10trie/57jehong.py) |
 | 58 | [리스트 정렬](https://leetcode.com/problems/sort-list/) | ★★ | 17장. 정렬 |  |
 | 59 | [구간 병합](https://leetcode.com/problems/merge-intervals/) | ★★ | 17장. 정렬 |  |
 | 60 | [삽입 정렬 리스트](https://leetcode.com/problems/insertion-sort-list/) | ★★ | 17장. 정렬 |  |
