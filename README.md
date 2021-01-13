@@ -37,8 +37,8 @@
 | 29 | [보석과 돌](https://leetcode.com/problems/jewels-and-stones/) | ★ | 11장. 해시 테이블 |  |
 | 30 | [중복 문자 없는 가장 긴 부분 문자열](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ★★ | 11장. 해시 테이블 |  |
 | 31 | [상위 K 빈도 요소](https://leetcode.com/problems/top-k-frequent-elements/) | ★★ | 11장. 해시 테이블 |  |
-| 32 | [섬의 개수](https://leetcode.com/problems/number-of-islands/) | ★★ | 12장. 그래프 | [32jehong_dfs.py](solutions/06graph/32jehong.py)<br>[32taelee.py](solutions/06graph/32taelee.py) |
-| 33 | [전화 번호 문자 조합](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ★★ | 12장. 그래프 |  |
+| 32 | [섬의 개수](https://leetcode.com/problems/number-of-islands/) | ★★ | 12장. 그래프 | [32jehong_dfs.py](solutions/06graph/32jehong.py)<br>[32taelee.py](solutions/06graph/33taelee.py) |
+| 33 | [전화 번호 문자 조합](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ★★ | 12장. 그래프 | [33jehong_dfs.py](solutions/06graph/32jehong.py) |
 | 34 | [순열](https://leetcode.com/problems/permutations/) | ★★ | 12장. 그래프 |  |
 | 35 | [조합](https://leetcode.com/problems/combinations/) | ★★ | 12장. 그래프 |  |
 | 36 | [조합의 합](https://leetcode.com/problems/combination-sum/) | ★★ | 12장. 그래프 |  |
