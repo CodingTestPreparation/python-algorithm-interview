@@ -83,7 +83,7 @@
 | 75         | [최대 슬라이딩 윈도우](https://leetcode.com/problems/sliding-window-maximum/) | ★★★    | 20장. 슬라이딩 윈도우         |                                                              |
 | 76         | [부분 문자열이 포함된 최소 윈도우](https://leetcode.com/problems/minimum-window-substring/) | ★★★    | 20장. 슬라이딩 윈도우         |                                                              |
 | 77         | [가장 긴 반복 문자 대체](https://leetcode.com/problems/longest-repeating-character-replacement/) | ★★     | 20장. 슬라이딩 윈도우         |                                                              |
-| 78         | [주식을 사고 팔기 가장 좋은 시점 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | ★      | 21장. 그리디 알고리즘         |                                                              |
+| 78         | [주식을 사고 팔기 가장 좋은 시점 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | ★      | 21장. 그리디 알고리즘         | [78jehong.py](solutions/15greedy/78jehong.py) |
 | 79         | [키에 따른 대기열 재구성](https://leetcode.com/problems/queue-reconstruction-by-height/) | ★★     | 21장. 그리디 알고리즘         |                                                              |
 | 80         | [태스크 스케줄러](https://leetcode.com/problems/task-scheduler/) | ★★     | 21장. 그리디 알고리즘         |                                                              |
 | 81         | [주유소](https://leetcode.com/problems/gas-station/)         | ★★     | 21장. 그리디 알고리즘         |                                                              |
