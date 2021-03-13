@@ -87,7 +87,7 @@
 | 79         | [키에 따른 대기열 재구성](https://leetcode.com/problems/queue-reconstruction-by-height/) | ★★     | 21장. 그리디 알고리즘         |                                                              |
 | 80         | [태스크 스케줄러](https://leetcode.com/problems/task-scheduler/) | ★★     | 21장. 그리디 알고리즘         |                                                              |
 | 81         | [주유소](https://leetcode.com/problems/gas-station/)         | ★★     | 21장. 그리디 알고리즘         |                                                              |
-| 82         | [쿠키 부여](https://leetcode.com/problems/assign-cookies/)   | ★      | 21장. 그리디 알고리즘         |                                                              |
+| 82         | [쿠키 부여](https://leetcode.com/problems/assign-cookies/)   | ★      | 21장. 그리디 알고리즘         | [82jehong.py](solutions/15greedy/82jehong.py) |
 | 83         | [과반수 엘리먼트](https://leetcode.com/problems/majority-element/) | ★      | 22장. 분할 정복               |                                                              |
 | 84         | [괄호를 삽입하는 여러가지 방법](https://leetcode.com/problems/different-ways-to-add-parentheses/) | ★★     | 22장. 분할 정복               |                                                              |
 | 85         | [피보나치 수](https://leetcode.com/problems/fibonacci-number/) | ★      | 23장. 다이나믹 프로그래밍     |                                                              |
